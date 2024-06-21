@@ -1,0 +1,17 @@
+.text-bg-dark{
+    background-color: black;
+    color: rgb(250, 246, 246);
+}
+
+.alert{
+    padding: 20px;
+    border-radius: 5%;
+}
+
+.alert-info{
+    background-color: rgb(101, 123, 248);
+}
+
+.alert-success{
+    background-color: green;
+}

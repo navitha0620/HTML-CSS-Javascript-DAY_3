@@ -1,0 +1,6 @@
+body{
+    background-image: url('HTMLPIC/cover3.jpg');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+}
